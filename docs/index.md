@@ -32,49 +32,39 @@ The topic of this workshop relates two subareas within experimental and computat
 
 <div class="people-grid">
   <div class="person">
-    <img src="/assets/images/placeholder-person.jpg" alt="Speaker 1">
-    <p class="person-name">Speaker Name 1</p>
-    <p class="person-institution">Institution 1</p>
+    <img src="/assets/images/jeff-magee.jpg" alt="Jeff Magee">
+    <p class="person-name"><a href="https://themageelab.org/" target="_blank">Jeff Magee</a></p>
+    <p class="person-institution">Baylor College of Medicine, HHMI</p>
   </div>
   <div class="person">
-    <img src="/assets/images/placeholder-person.jpg" alt="Speaker 2">
-    <p class="person-name">Speaker Name 2</p>
-    <p class="person-institution">Institution 2</p>
+    <img src="/assets/images/lea-duncker.jpg" alt="Lea Duncker">
+    <p class="person-name"><a href="https://zuckermaninstitute.columbia.edu/lea-duncker-phd" target="_blank">Lea Duncker</a></p>
+    <p class="person-institution">Columbia University</p>
   </div>
   <div class="person">
-    <img src="/assets/images/placeholder-person.jpg" alt="Speaker 3">
-    <p class="person-name">Speaker Name 3</p>
-    <p class="person-institution">Institution 3</p>
+    <img src="/assets/images/cengiz-pehlevan.jpg" alt="Cengiz Pehlevan">
+    <p class="person-name"><a href="https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan" target="_blank">Cengiz Pehlevan</a></p>
+    <p class="person-institution">Harvard University</p>
   </div>
   <div class="person">
-    <img src="/assets/images/placeholder-person.jpg" alt="Speaker 4">
-    <p class="person-name">Speaker Name 4</p>
-    <p class="person-institution">Institution 4</p>
+    <img src="/assets/images/kayvon-daie.jpg" alt="Kayvon Daie">
+    <p class="person-name"><a href="https://www.allenneuraldynamics.org/people/kayvon-daie" target="_blank">Kayvon Daie</a></p>
+    <p class="person-institution">Allen Institute</p>
   </div>
   <div class="person">
-    <img src="/assets/images/placeholder-person.jpg" alt="Speaker 5">
-    <p class="person-name">Speaker Name 5</p>
-    <p class="person-institution">Institution 5</p>
+    <img src="/assets/images/hidehiko-inagaki.jpg" alt="Hidehiko Inagaki">
+    <p class="person-name"><a href="https://mpfi.org/science/our-labs/inagaki-lab/" target="_blank">Hidehiko Inagaki</a></p>
+    <p class="person-institution">Max Planck Florida Institute</p>
   </div>
   <div class="person">
-    <img src="/assets/images/placeholder-person.jpg" alt="Speaker 6">
-    <p class="person-name">Speaker Name 6</p>
-    <p class="person-institution">Institution 6</p>
+    <img src="/assets/images/xulu-sun.jpg" alt="Xulu Sun">
+    <p class="person-name">Xulu Sun</p>
+    <p class="person-institution">UCSF</p>
   </div>
   <div class="person">
-    <img src="/assets/images/placeholder-person.jpg" alt="Speaker 7">
-    <p class="person-name">Speaker Name 7</p>
-    <p class="person-institution">Institution 7</p>
-  </div>
-  <div class="person">
-    <img src="/assets/images/placeholder-person.jpg" alt="Speaker 8">
-    <p class="person-name">Speaker Name 8</p>
-    <p class="person-institution">Institution 8</p>
-  </div>
-  <div class="person">
-    <img src="/assets/images/placeholder-person.jpg" alt="Speaker 9">
-    <p class="person-name">Speaker Name 9</p>
-    <p class="person-institution">Institution 9</p>
+    <img src="/assets/images/aaron-batista.jpg" alt="Aaron Batista">
+    <p class="person-name"><a href="https://www.cnup.pitt.edu/people/aaron-batista-phd" target="_blank">Aaron Batista</a></p>
+    <p class="person-institution">University of Pittsburgh</p>
   </div>
 </div>
 
@@ -82,14 +72,14 @@ The topic of this workshop relates two subareas within experimental and computat
 
 <div class="people-grid organizers-grid">
   <div class="person">
-    <img src="/assets/images/placeholder-person.jpg" alt="Organizer 1">
-    <p class="person-name">Organizer Name 1</p>
-    <p class="person-institution">Institution 1</p>
+    <img src="/assets/images/taiga-abe.jpg" alt="Taiga Abe">
+    <p class="person-name"><a href="https://cellistigs.github.io/" target="_blank">Taiga Abe</a></p>
+    <p class="person-institution">Stanford University</p>
   </div>
   <div class="person">
-    <img src="/assets/images/placeholder-person.jpg" alt="Organizer 2">
-    <p class="person-name">Organizer Name 2</p>
-    <p class="person-institution">Institution 2</p>
+    <img src="/assets/images/catherine-wang.jpg" alt="Catherine Wang">
+    <p class="person-name"><a href="https://catherinewang.xyz" target="_blank">Catherine Wang</a></p>
+    <p class="person-institution">Duke University</p>
   </div>
 </div>
 
