@@ -36,7 +36,7 @@ permalink: /speakers/
 
   <div class="speaker-row" data-category="computational">
     <div class="speaker-photo">
-      <img src="{{ site.baseurl }}/assets/images/lea-duncker.jpg" alt="Lea Duncker">
+      <img src="{{ site.baseurl }}/assets/images/lea-duncker.png" alt="Lea Duncker">
       <p class="speaker-name"><a href="https://zuckermaninstitute.columbia.edu/lea-duncker-phd" target="_blank">Lea Duncker</a></p>
       <p class="speaker-institution">Columbia University</p>
     </div>
@@ -58,7 +58,7 @@ permalink: /speakers/
 
   <div class="speaker-row" data-category="experimental">
     <div class="speaker-photo">
-      <img src="{{ site.baseurl }}/assets/images/jeff-magee.jpg" alt="Jeff Magee">
+      <img src="{{ site.baseurl }}/assets/images/jeff-magee.webp" alt="Jeff Magee">
       <p class="speaker-name"><a href="https://themageelab.org/" target="_blank">Jeff Magee</a></p>
       <p class="speaker-institution">Baylor College of Medicine, HHMI</p>
     </div>
