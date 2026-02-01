@@ -51,9 +51,6 @@ The topic of this workshop relates two subareas within experimental and computat
     <p class="person-name" style="font-size: 1.2em;"><a href="https://mpfi.org/science/our-labs/inagaki-lab/" target="_blank">Hidehiko Inagaki</a></p>
     <p class="person-institution">Max Planck Florida Institute</p>
   </div>
-</div>
-
-<div class="people-grid" style="justify-content: center;">
   <div class="person">
     <img src="{{ site.baseurl }}/assets/images/jeff-magee.webp" alt="Jeff Magee">
     <p class="person-name" style="font-size: 1.2em;"><a href="https://themageelab.org/" target="_blank">Jeff Magee</a></p>

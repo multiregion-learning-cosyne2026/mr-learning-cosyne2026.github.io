@@ -113,9 +113,9 @@ body {
 /* People grid for Speakers and Organizers */
 .people-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 2rem;
-  max-width: 900px;
+  max-width: 1100px;
   margin: 2rem auto;
   padding: 0 1rem;
 }
