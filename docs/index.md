@@ -30,21 +30,11 @@ The topic of this workshop relates two subareas within experimental and computat
 
 ## Speakers
 
-<div class="people-grid">
+<div class="people-grid" style="justify-content: center;">
   <div class="person">
-    <img src="{{ site.baseurl }}/assets/images/jeff-magee.webp" alt="Jeff Magee">
-    <p class="person-name"><a href="https://themageelab.org/" target="_blank">Jeff Magee</a></p>
-    <p class="person-institution">Baylor College of Medicine, HHMI</p>
-  </div>
-  <div class="person">
-    <img src="{{ site.baseurl }}/assets/images/lea-duncker.png" alt="Lea Duncker">
-    <p class="person-name"><a href="https://zuckermaninstitute.columbia.edu/lea-duncker-phd" target="_blank">Lea Duncker</a></p>
-    <p class="person-institution">Columbia University</p>
-  </div>
-  <div class="person">
-    <img src="{{ site.baseurl }}/assets/images/cengiz-pehlevan.jpg" alt="Cengiz Pehlevan">
-    <p class="person-name"><a href="https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan" target="_blank">Cengiz Pehlevan</a></p>
-    <p class="person-institution">Harvard University</p>
+    <img src="{{ site.baseurl }}/assets/images/aaron-batista.jpg" alt="Aaron Batista">
+    <p class="person-name"><a href="https://www.cnup.pitt.edu/people/aaron-batista-phd" target="_blank">Aaron Batista</a></p>
+    <p class="person-institution">University of Pittsburgh</p>
   </div>
   <div class="person">
     <img src="{{ site.baseurl }}/assets/images/kayvon-daie.jpg" alt="Kayvon Daie">
@@ -52,25 +42,35 @@ The topic of this workshop relates two subareas within experimental and computat
     <p class="person-institution">Allen Institute</p>
   </div>
   <div class="person">
+    <img src="{{ site.baseurl }}/assets/images/lea-duncker.png" alt="Lea Duncker">
+    <p class="person-name"><a href="https://zuckermaninstitute.columbia.edu/lea-duncker-phd" target="_blank">Lea Duncker</a></p>
+    <p class="person-institution">Columbia University</p>
+  </div>
+  <div class="person">
     <img src="{{ site.baseurl }}/assets/images/hidehiko-inagaki.jpg" alt="Hidehiko Inagaki">
     <p class="person-name"><a href="https://mpfi.org/science/our-labs/inagaki-lab/" target="_blank">Hidehiko Inagaki</a></p>
     <p class="person-institution">Max Planck Florida Institute</p>
+  </div>
+  <div class="person">
+    <img src="{{ site.baseurl }}/assets/images/jeff-magee.webp" alt="Jeff Magee">
+    <p class="person-name"><a href="https://themageelab.org/" target="_blank">Jeff Magee</a></p>
+    <p class="person-institution">Baylor College of Medicine, HHMI</p>
+  </div>
+  <div class="person">
+    <img src="{{ site.baseurl }}/assets/images/cengiz-pehlevan.jpg" alt="Cengiz Pehlevan">
+    <p class="person-name"><a href="https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan" target="_blank">Cengiz Pehlevan</a></p>
+    <p class="person-institution">Harvard University</p>
   </div>
   <div class="person">
     <img src="{{ site.baseurl }}/assets/images/xulu-sun.jpg" alt="Xulu Sun">
     <p class="person-name">Xulu Sun</p>
     <p class="person-institution">UCSF</p>
   </div>
-  <div class="person">
-    <img src="{{ site.baseurl }}/assets/images/aaron-batista.jpg" alt="Aaron Batista">
-    <p class="person-name"><a href="https://www.cnup.pitt.edu/people/aaron-batista-phd" target="_blank">Aaron Batista</a></p>
-    <p class="person-institution">University of Pittsburgh</p>
-  </div>
 </div>
 
 ## Organizers
 
-<div class="people-grid organizers-grid">
+<div class="people-grid organizers-grid" style="justify-content: center;">
   <div class="person">
     <img src="{{ site.baseurl }}/assets/images/taiga-abe.jpg" alt="Taiga Abe">
     <p class="person-name"><a href="https://cellistigs.github.io/" target="_blank">Taiga Abe</a></p>
