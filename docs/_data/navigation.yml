@@ -5,5 +5,7 @@ main:
     url: /speakers/
   - title: "Schedule"
     url: /schedule/
+  - title: "Readings"
+    url: /readings/
   - title: "Q&A"
     url: /qa/
