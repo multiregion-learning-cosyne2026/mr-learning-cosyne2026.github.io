@@ -32,37 +32,37 @@ The topic of this workshop relates two subareas within experimental and computat
 
 <div class="people-grid">
   <div class="person">
-    <img src="/assets/images/jeff-magee.jpg" alt="Jeff Magee">
+    <img src="{{ site.baseurl }}/assets/images/jeff-magee.webp" alt="Jeff Magee">
     <p class="person-name"><a href="https://themageelab.org/" target="_blank">Jeff Magee</a></p>
     <p class="person-institution">Baylor College of Medicine, HHMI</p>
   </div>
   <div class="person">
-    <img src="/assets/images/lea-duncker.jpg" alt="Lea Duncker">
+    <img src="{{ site.baseurl }}/assets/images/lea-duncker.png" alt="Lea Duncker">
     <p class="person-name"><a href="https://zuckermaninstitute.columbia.edu/lea-duncker-phd" target="_blank">Lea Duncker</a></p>
     <p class="person-institution">Columbia University</p>
   </div>
   <div class="person">
-    <img src="/assets/images/cengiz-pehlevan.jpg" alt="Cengiz Pehlevan">
+    <img src="{{ site.baseurl }}/assets/images/cengiz-pehlevan.jpg" alt="Cengiz Pehlevan">
     <p class="person-name"><a href="https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan" target="_blank">Cengiz Pehlevan</a></p>
     <p class="person-institution">Harvard University</p>
   </div>
   <div class="person">
-    <img src="/assets/images/kayvon-daie.jpg" alt="Kayvon Daie">
+    <img src="{{ site.baseurl }}/assets/images/kayvon-daie.jpg" alt="Kayvon Daie">
     <p class="person-name"><a href="https://www.allenneuraldynamics.org/people/kayvon-daie" target="_blank">Kayvon Daie</a></p>
     <p class="person-institution">Allen Institute</p>
   </div>
   <div class="person">
-    <img src="/assets/images/hidehiko-inagaki.jpg" alt="Hidehiko Inagaki">
+    <img src="{{ site.baseurl }}/assets/images/hidehiko-inagaki.jpg" alt="Hidehiko Inagaki">
     <p class="person-name"><a href="https://mpfi.org/science/our-labs/inagaki-lab/" target="_blank">Hidehiko Inagaki</a></p>
     <p class="person-institution">Max Planck Florida Institute</p>
   </div>
   <div class="person">
-    <img src="/assets/images/xulu-sun.jpg" alt="Xulu Sun">
+    <img src="{{ site.baseurl }}/assets/images/xulu-sun.jpg" alt="Xulu Sun">
     <p class="person-name">Xulu Sun</p>
     <p class="person-institution">UCSF</p>
   </div>
   <div class="person">
-    <img src="/assets/images/aaron-batista.jpg" alt="Aaron Batista">
+    <img src="{{ site.baseurl }}/assets/images/aaron-batista.jpg" alt="Aaron Batista">
     <p class="person-name"><a href="https://www.cnup.pitt.edu/people/aaron-batista-phd" target="_blank">Aaron Batista</a></p>
     <p class="person-institution">University of Pittsburgh</p>
   </div>
@@ -72,12 +72,12 @@ The topic of this workshop relates two subareas within experimental and computat
 
 <div class="people-grid organizers-grid">
   <div class="person">
-    <img src="/assets/images/taiga-abe.jpg" alt="Taiga Abe">
+    <img src="{{ site.baseurl }}/assets/images/taiga-abe.jpg" alt="Taiga Abe">
     <p class="person-name"><a href="https://cellistigs.github.io/" target="_blank">Taiga Abe</a></p>
     <p class="person-institution">Stanford University</p>
   </div>
   <div class="person">
-    <img src="/assets/images/catherine-wang.jpg" alt="Catherine Wang">
+    <img src="{{ site.baseurl }}/assets/images/catherine-wang.jpg" alt="Catherine Wang">
     <p class="person-name"><a href="https://catherinewang.xyz" target="_blank">Catherine Wang</a></p>
     <p class="person-institution">Duke University</p>
   </div>
