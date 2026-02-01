@@ -284,98 +284,59 @@ body {
 
 /* Schedule page styling */
 .schedule {
-  max-width: 700px;
+  max-width: 600px;
   margin: 0 auto;
 }
 
 .schedule-item {
   display: flex;
-  gap: 1.5rem;
-  padding: 1rem 0;
-  border-bottom: 1px solid #eee;
-
-  &:last-child {
-    border-bottom: none;
-  }
+  align-items: baseline;
+  gap: 2rem;
+  padding: 0.6rem 0;
 }
 
 .schedule-time {
   flex-shrink: 0;
-  width: 80px;
-  font-weight: 600;
-  font-size: 0.9em;
-  color: #494e52;
+  width: 90px;
+  font-size: 0.95em;
+  color: #333;
 }
 
 .schedule-content {
   flex: 1;
 
   .schedule-title {
-    font-weight: 600;
-    font-size: 1em;
-    margin: 0 0 0.25rem 0;
+    font-size: 0.95em;
+    margin: 0;
     color: #333;
+    display: inline;
   }
 
   .schedule-speaker {
-    font-size: 0.9em;
+    font-size: 0.95em;
     margin: 0;
-    color: #555;
-  }
-
-  .speaker-affiliation {
-    font-style: italic;
-    color: #777;
-
-    &::before {
-      content: "— ";
-    }
-  }
-
-  .schedule-description {
-    font-size: 0.85em;
-    color: #666;
-    margin: 0.25rem 0 0 0;
+    color: #333;
+    display: inline;
   }
 }
 
-/* Color accents for different event types */
+/* Breaks are italicized */
 .schedule-item.break {
-  background: #f9f9f9;
-  margin: 0 -1rem;
-  padding: 1rem;
-  border-radius: 4px;
-  border-bottom: none;
-
   .schedule-title {
-    color: #666;
-    font-weight: 500;
-  }
-}
-
-.schedule-item.discussion {
-  .schedule-title {
-    color: #2a7ae2;
-  }
-}
-
-.schedule-item.opening,
-.schedule-item.closing {
-  .schedule-title {
-    color: #494e52;
+    font-style: italic;
+    color: #555;
   }
 }
 
 /* Responsive */
 @media (max-width: 480px) {
   .schedule-item {
-    flex-direction: column;
-    gap: 0.25rem;
+    gap: 1rem;
   }
 
   .schedule-time {
-    width: auto;
-    font-size: 0.85em;
+    width: 70px;
+    font-size: 0.9em;
   }
 }
 
